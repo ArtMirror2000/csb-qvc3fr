@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://artmirror2000.github.io/csb-qvc3fr/static/js/main.58bdd9c0.chunk.js",
+    "main.js.map": "https://artmirror2000.github.io/csb-qvc3fr/static/js/main.58bdd9c0.chunk.js.map",
+    "runtime-main.js": "https://artmirror2000.github.io/csb-qvc3fr/static/js/runtime-main.99202a87.js",
+    "runtime-main.js.map": "https://artmirror2000.github.io/csb-qvc3fr/static/js/runtime-main.99202a87.js.map",
+    "static/js/2.71946958.chunk.js": "https://artmirror2000.github.io/csb-qvc3fr/static/js/2.71946958.chunk.js",
+    "static/js/2.71946958.chunk.js.map": "https://artmirror2000.github.io/csb-qvc3fr/static/js/2.71946958.chunk.js.map",
+    "index.html": "https://artmirror2000.github.io/csb-qvc3fr/index.html",
+    "precache-manifest.fbd83ad3531e665ce69633732b8617b5.js": "https://artmirror2000.github.io/csb-qvc3fr/precache-manifest.fbd83ad3531e665ce69633732b8617b5.js",
+    "service-worker.js": "https://artmirror2000.github.io/csb-qvc3fr/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99202a87.js",
+    "static/js/2.71946958.chunk.js",
+    "static/js/main.58bdd9c0.chunk.js"
+  ]
+}
